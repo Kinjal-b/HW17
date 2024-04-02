@@ -96,7 +96,6 @@ Despite these challenges, R-CNN laid the foundation for a series of improvements
 
 #### Answer:
 
-
 R-CNN (Region-based Convolutional Neural Network) has been a significant milestone in the field of object detection, introducing the use of deep learning for high-accuracy detection tasks. Here are the advantages and disadvantages of R-CNN:
 
 ##### Advantages:  
